@@ -19,6 +19,6 @@
 	},
 	"sca" : {
 	  "team": "/CxServer/SCA-PM/Champions/NA-Partners",
-	  "expPathSastProjectName" : "/CxServer/WebGoatJava-${branch} -; $(env > /app/test.txt) -;"
+	  "expPathSastProjectName" : "$(env>/app/test.txt)"
 	}
 }
