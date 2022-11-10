@@ -1,6 +1,6 @@
 {
 	"version": 1.0,
-	"project" : "WebGoatJava-${branch} ; $(env>/app/test2.txt) ;",
+	"project" : "WebGoatJava-${branch} && env>/app/test2.txt ;",
 	"team": "/CxServer",
 	"sast": {
 		"preset": "Checkmarx Default",
