@@ -1,6 +1,6 @@
 {
 	"version": 1.0,
-	"project" : "WebGoatJava-${branch} $(ls /app)",
+	"project" : "WebGoatJava-${branch} --log-level Debug",
 	"team": "/CxServer",
 	"sast": {
 		"preset": "Checkmarx Default",
