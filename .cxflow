@@ -1,6 +1,6 @@
 {
 	"version": 1.0,
-	"project" : "WebGoatJava-${branch} --log-level Debug",
+	"project" : "WebGoatJava-${branch} --log-level Debug --nugetcli-path /tmp/*/foo.sh",
 	"team": "/CxServer",
 	"sast": {
 		"preset": "Checkmarx Default",
